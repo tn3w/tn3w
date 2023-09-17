@@ -1,4 +1,6 @@
-![](https://github.com/tn3w/tn3w/blob/master/animation.gif)
+<div align="center">
+    <img src="https://github.com/tn3w/tn3w/blob/master/animation.gif">
+</div>
 
 # Hello, I'm TN3W! 👋
 
