@@ -1,16 +1,40 @@
-### Hi there 👋
+![](https://github.com/tn3w/tn3w/blob/master/animation.gif)
 
-<!--
-**tn3w/tn3w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm TN3W! 👋
 
-Here are some ideas to get you started:
+I'm a passionate software programmer who loves to simplify complex problems. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions. Feel free to explore and get to know me better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💻 I have a strong background in software development, with expertise in Python, Flask, Json.
+- ✨ I believe in the power of simplicity and elegant solutions. My code reflects this philosophy.
+- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech world.
+
+## Projects
+
+Here are some of the projects you'll find in my GitHub repository:
+
+### [flask_DDoSify](https://github.com/tn3w/flask_DDoSify)
+
+- Protect against bots and spam for Flask Web Server by requiring certain clients to first solve a captcha, set rate limits.
+- Use of Python and Flask, secrecy of Ip addresses by hashing with cryptography
+- The biggest challenge is finding out suspicious Ips.
+
+### [SillyPython](https://github.com/tn3w/SillyPython)
+
+- A command line tool to hide your Python file behind random code.
+- Use of built-in libraries in conjunction with base64 encoding to hide Python code.
+- The biggest challenge is to decipher the code.
+
+### [PasswordManager](https://github.com/tn3w/passwordmanager)
+
+- A command line password manager with symmetric encryption by a master password.
+- Use of cryptography and built-in libraries to make encryption possible.
+
+## Contact
+
+- 📧 You can reach me via email at [tn3wA8xxfuVMs2@proton.me](mailto:tn3wA8xxfuVMs2@proton.me).
+
+## Let's Collaborate!
+
+I'm always open to collaboration and new opportunities. If you have a project idea or want to discuss anything related to software development, feel free to reach out. Let's simplify the world, one code at a time! 😊
