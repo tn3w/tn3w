@@ -8,9 +8,9 @@ I'm a passionate software programmer who loves to simplify complex problems. Wel
 
 ## About Me
 
-- 💻 I have a strong background in software development, with expertise in Python, Flask, Json.
 - ✨ I believe in the power of simplicity and elegant solutions. My code reflects this philosophy.
 - 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech world.
+- 🫖 Teapot
 
 ## Projects
 
