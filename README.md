@@ -33,6 +33,8 @@ Here are some of the projects you'll find in my GitHub repository:
 - A command line password manager with symmetric encryption by a master password.
 - Use of cryptography and built-in libraries to make encryption possible.
 
+Other projects: [LOLcat translator](https://github.com/tn3w/LOLcat)
+
 ## Contact
 
 - 📧 You can reach me via email at [tn3wA8xxfuVMs2@proton.me](mailto:tn3wA8xxfuVMs2@proton.me).
