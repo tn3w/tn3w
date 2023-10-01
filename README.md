@@ -16,17 +16,20 @@ I'm a passionate software programmer who loves to simplify complex problems. Wel
 
 Here are some of the projects you'll find in my GitHub repository:
 
+### [Spotofy](https://github.com/tn3w/Spotofy)
+
+- Spotofy is a free music player client without ads to listen to and download your favorite music. 
+- Using Python in conjunction with spotipy to get music data and using yt-dlp to download music from YouTube.
+
 ### [flask_DDoSify](https://github.com/tn3w/flask_DDoSify)
 
 - Protect against bots and spam for Flask Web Server by requiring certain clients to first solve a captcha, set rate limits.
 - Use of Python and Flask, secrecy of Ip addresses by hashing with cryptography
-- The biggest challenge is finding out suspicious Ips.
 
 ### [SillyPython](https://github.com/tn3w/SillyPython)
 
 - A command line tool to hide your Python file behind random code.
 - Use of built-in libraries in conjunction with base64 encoding to hide Python code.
-- The biggest challenge is to decipher the code.
 
 ### [PasswordManager](https://github.com/tn3w/passwordmanager)
 
