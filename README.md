@@ -36,7 +36,7 @@ Here are some of the projects you'll find in my GitHub repository:
 - A command line password manager with symmetric encryption by a master password.
 - Use of cryptography and built-in libraries to make encryption possible.
 
-Other projects: [LOLcat translator](https://github.com/tn3w/LOLcat), [RapidDB](https://github.com/tn3w/RapidDB)
+Other projects: [LOLcat translator](https://github.com/tn3w/LOLcat), [AsciiArtGen](https://github.com/tn3w/AsciiGifGen) [RapidDB](https://github.com/tn3w/RapidDB)
 
 ## Contact
 
