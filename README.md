@@ -2,16 +2,6 @@
     <img src="https://github.com/tn3w/tn3w/blob/master/animation.gif">
 </div>
 
-# Hello, I'm TN3W! 👋
-
-I'm a passionate software programmer who loves to simplify complex problems. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions. Feel free to explore and get to know me better.
-
-## About Me
-
-- ✨ I believe in the power of simplicity and elegant solutions. My code reflects this philosophy.
-- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date in the ever-evolving tech world.
-- 🫖 Teapot
-
 ## Projects
 
 Here are some of the projects you'll find in my GitHub repository:
@@ -40,8 +30,4 @@ Other projects: [LOLcat translator](https://github.com/tn3w/LOLcat), [AsciiArtGe
 
 ## Contact
 
-- 📧 You can reach me via email at [tn3wA8xxfuVMs2@proton.me](mailto:tn3wA8xxfuVMs2@proton.me).
-
-## Let's Collaborate!
-
-I'm always open to collaboration and new opportunities. If you have a project idea or want to discuss anything related to software development, feel free to reach out. Let's simplify the world, one code at a time! 😊
+- 📧 You can reach me via email at [tn3wA8xxfuVMs2@proton.me](mailto:tn3wA8xxfuVMs2@proton.me)
