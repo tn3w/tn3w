@@ -1,6 +1,7 @@
 <div align="center">
     <img src="https://github.com/tn3w/tn3w/blob/master/animation.gif">
 </div>
+<p align="center"><a rel="noreferrer noopener" href="http://tn3wtor4vgnrimugptubpaqsf2gc4pcsktknkxt74w7p5yzbt7rwrkid.onion/"><img alt="Hidden Service" src="https://img.shields.io/badge/Hidden%20Service-141e24.svg?&style=for-the-badge&logo=torbrowser&logoColor=white"></a>  <a rel="noreferrer noopener" href="http://tn3wvjimrn3hydx4u52kzfnkgu6kffef2js27ewlhdf5htulno34vqad.onion/"><img alt="Mirror 1" src="https://img.shields.io/badge/Mirror%201-141e24.svg?&style=for-the-badge&logo=torproject&logoColor=white"></a>  <a rel="noreferrer noopener" href="http://tn3wtor7cfz3epmuetrhkj3mangjxqpd47lxxicfwwdwja6dwq6dbdad.onion/"><img alt="Mirror 2" src="https://img.shields.io/badge/Mirror%202-141e24.svg?&style=for-the-badge&logo=torproject&logoColor=white"></a>
 
 ## Projects
 
