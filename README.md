@@ -22,7 +22,7 @@ A command line tool to hide your Python file behind random code.
 ### [PasswordManager](https://github.com/tn3w/passwordmanager)
 A command line password manager with symmetric encryption by a master password.
 
-Other projects: [LOLcat translator](https://github.com/tn3w/LOLcat), [AsciiArtGen](https://github.com/tn3w/AsciiGifGen), [RapidDB](https://github.com/tn3w/RapidDB)
+Other projects: [PyVault](https://github.com/tn3w/PyVault), [RapidDB](https://github.com/tn3w/RapidDB), [LOLcat translator](https://github.com/tn3w/LOLcat), [AsciiArtGen](https://github.com/tn3w/AsciiGifGen)
 
 ## Contact
 
