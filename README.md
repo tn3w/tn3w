@@ -7,7 +7,7 @@
 
 Here are some of the projects you'll find in my GitHub repository:
 
-### [flask_DDoSify](https://github.com/tn3w/flask_DDoSify)
+### [flask_DDoSify](https://github.com/tn3w/flask_Captchaify)
 Protect against bots and spam for Flask Web Server by requiring certain clients to first solve a captcha, set rate limits.
 
 ### [CipherChat](https://github.com/tn3w/CipherChat)
