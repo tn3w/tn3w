@@ -9,6 +9,7 @@ I am TN3W, a German hobby programmer proficient in Python, HTML, CSS, and Javasc
 
 **🏙️ Location:** 🇩🇪 Germany<br>
 **🧑‍💻 Programming languages:** Python, HTML, CSS, and Javascript<br>
+**🌐 Website:** [https://www.tn3w.dev](https://www.tn3w.dev)<br>
 **✉️ Email:** [tn3wA8xxfuVMs2@proton.me](mailto:tn3wA8xxfuVMs2@proton.me) or [mail@tn3w.dev](mail@tn3w.dev) or [tn3w@duck.com](tn3w@duck.com)<br>
 **🔑 PGP Key:** [Download here](https://www.tn3w.dev/publ-key.asc) or use fingerprint 0C57B74B2C3B2F026984617129B39032102303D7 to request it
 
