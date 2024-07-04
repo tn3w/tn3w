@@ -19,8 +19,7 @@ Here are some of the projects you'll find in my GitHub repository:
 
 - [flask_Captchaify](https://github.com/tn3w/flask_Captchaify) is a tool to protect against bots and spam for an Flask Web Server by requiring certain clients to first solve a captcha.
 - [CipherChat](https://github.com/tn3w/CipherChat) is a console tool for secure and anonymous chatting with other people.
-- [Spotofy](https://github.com/tn3w/Spotofy) is a free music player client without ads to listen to and download your favorite music. 
-- [CinemaWave](https://github.com/tn3w/CinemaWave) is a free movie streaming and recommandation Service.
+- [Spotofy](https://github.com/tn3w/Spotofy) is a free music player client without ads to listen to and download your favorite music.
 - [MovieDB-JSON](https://github.com/tn3w/MovieDB-JSON) is a JSON library with 981,530 films.
 - [tn3w_utils](https://github.com/tn3w/tn3w_utils) are a collection of functions, classes and files that I use in my projects.
 
