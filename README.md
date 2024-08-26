@@ -14,8 +14,6 @@
     </a>
 </p>
 
-<br>
-
 ## 👋 Welcome to My World
 
 Hey there! I’m **TN3W** — a self-taught, passion-driven programmer hailing from Germany 🇩🇪. My coding journey revolves around languages like **Python, HTML, CSS, Java, Rust, Qt,** and **JavaScript**, but my curiosity doesn’t stop there. I’m constantly diving into new technologies, always looking for ways to sharpen my skills and expand my knowledge.
@@ -28,8 +26,6 @@ When I’m not coding, you’ll probably find me deep in a video game or contrib
 - **🌐 Website:** [tn3w.dev](https://www.tn3w.dev)
 - **📧 Reach Me:** [mail@tn3w.dev](mailto:mail@tn3w.dev)
 - **🔐 PGP Key:** [Download here](https://www.tn3w.dev/publ-key.asc) | Fingerprint: `0C57B74B2C3B2F026984617129B39032102303D7`
-
-<br>
 
 ## 📂 My Projects
 
