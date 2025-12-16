@@ -9,7 +9,7 @@
     <a href="http://tn3wdevey67vnv4pho2e6punjunsac7nifg4dzmw2stvknbprhvxt5id.onion/" target="_blank" rel="noopener noreferrer">
         <img alt="Hidden Service" src="https://img.shields.io/badge/Hidden%20Service-141e24.svg?&style=for-the-badge&logo=torbrowser&logoColor=white">
     </a>
-    <a href="https://pypi.org/user/tn3w/" target="_blank" rel="noopener noreferrer">
+    <a href="https://pypi.org/user/tn3w.dev" target="_blank" rel="noopener noreferrer">
         <img alt="PyPI" src="https://img.shields.io/badge/PyPi-141e24.svg?&style=for-the-badge&logo=python&logoColor=white">
     </a>
 </p>
@@ -25,7 +25,6 @@ When I’m not coding, you’ll probably find me deep in a video game or contrib
 - **👨‍💻 Languages & Tools:** Python, HTML, CSS, Java, Rust, Qt and JavaScript
 - **🌐 Website:** [tn3w.dev](https://www.tn3w.dev)
 - **📧 Reach Me:** [mail@tn3w.dev](mailto:mail@tn3w.dev)
-- **🔐 PGP Key:** [Download here](https://www.tn3w.dev/publ-key.asc) | Fingerprint: `0C57B74B2C3B2F026984617129B39032102303D7`
 
 ## 📂 My Projects
 
