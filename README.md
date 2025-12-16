@@ -24,7 +24,7 @@ When I’m not coding, you’ll probably find me deep in a video game or contrib
 - **📍 Location:** Germany
 - **👨‍💻 Languages & Tools:** Python, HTML, CSS, Java, Rust, Qt and JavaScript
 - **🌐 Website:** [tn3w.dev](https://www.tn3w.dev)
-- **📧 Reach Me:** [mail@tn3w.dev](mailto:mail@tn3w.dev)
+- **📧 Reach Me:** [tn3w@protonmail.com](tn3w@protonmail.com) or [mail@tn3w.dev](mailto:mail@tn3w.dev)
 
 ## 📂 My Projects
 
