@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="Page not found - TN3W" />
+        <title>404 — Page Not Found | TN3W</title>
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <style>
+            :root {
+                --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+                --font-mono: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+                --space-xs: 4px;
+                --space-sm: 8px;
+                --space-md: 16px;
+                --space-lg: 24px;
+                --space-xl: 32px;
+                --text-xs: 0.75rem;
+                --text-sm: 0.875rem;
+                --text-base: 1rem;
+                --text-lg: 1.125rem;
+                --radius-md: 6px;
+                --transition-fast: 150ms ease;
+                --transition-base: 200ms ease;
+
+                --bg-primary: #ffffff;
+                --text-primary: #171717;
+                --text-secondary: #525252;
+                --text-tertiary: #a3a3a3;
+                --accent: #171717;
+                --accent-hover: #404040;
+                --border: #e5e5e5;
+                --border-hover: #d4d4d4;
+            }
+
+            @media (prefers-color-scheme: dark) {
+                :root {
+                    --bg-primary: #0a0a0a;
+                    --text-primary: #fafafa;
+                    --text-secondary: #a3a3a3;
+                    --text-tertiary: #737373;
+                    --accent: #fafafa;
+                    --accent-hover: #d4d4d4;
+                    --border: #262626;
+                    --border-hover: #404040;
+                }
+            }
+
+            [data-theme='dark'] {
+                --bg-primary: #0a0a0a;
+                --text-primary: #fafafa;
+                --text-secondary: #a3a3a3;
+                --text-tertiary: #737373;
+                --accent: #fafafa;
+                --accent-hover: #d4d4d4;
+                --border: #262626;
+                --border-hover: #404040;
+            }
+
+            [data-theme='light'] {
+                --bg-primary: #ffffff;
+                --text-primary: #171717;
+                --text-secondary: #525252;
+                --text-tertiary: #a3a3a3;
+                --accent: #171717;
+                --accent-hover: #404040;
+                --border: #e5e5e5;
+                --border-hover: #d4d4d4;
+            }
+
+            *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+            html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+            body {
+                font-family: var(--font-sans);
+                font-size: var(--text-base);
+                line-height: 1.6;
+                color: var(--text-primary);
+                background-color: var(--bg-primary);
+                min-height: 100vh;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                padding: var(--space-lg);
+                text-align: center;
+                transition: background-color var(--transition-base), color var(--transition-base);
+            }
+
+            a { color: inherit; text-decoration: none; }
+
+            main {
+                flex: 1;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .error-code {
+                font-size: clamp(8rem, 25vw, 14rem);
+                font-weight: 700;
+                letter-spacing: -0.05em;
+                line-height: 1;
+                color: var(--text-tertiary);
+                margin-bottom: var(--space-lg);
+                font-family: var(--font-mono);
+            }
+
+            .error-title {
+                font-size: var(--text-lg);
+                font-weight: 600;
+                margin-bottom: var(--space-sm);
+            }
+
+            .error-desc {
+                font-size: var(--text-base);
+                color: var(--text-secondary);
+                max-width: 400px;
+                margin-bottom: var(--space-xl);
+            }
+
+            .btn {
+                display: inline-flex;
+                align-items: center;
+                justify-content: center;
+                gap: var(--space-sm);
+                padding: var(--space-sm) var(--space-lg);
+                font-size: var(--text-sm);
+                font-weight: 500;
+                border-radius: var(--radius-md);
+                transition: all var(--transition-fast);
+                cursor: pointer;
+                border: none;
+                background: var(--accent);
+                color: var(--bg-primary);
+            }
+
+            .btn:hover { background: var(--accent-hover); }
+            .btn-icon { width: 16px; height: 16px; flex-shrink: 0; }
+
+            .footer {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: var(--space-md);
+                font-size: var(--text-xs);
+                color: var(--text-tertiary);
+                margin-top: var(--space-xl);
+            }
+
+            .footer-controls {
+                display: flex;
+                align-items: center;
+                gap: var(--space-xs);
+            }
+
+            .lang-toggle, .theme-toggle {
+                display: flex;
+                align-items: center;
+                gap: var(--space-xs);
+                padding: var(--space-xs) var(--space-sm);
+                background: transparent;
+                border: none;
+                color: var(--text-tertiary);
+                cursor: pointer;
+                transition: color var(--transition-fast);
+                font-size: var(--text-xs);
+            }
+
+            .lang-toggle:hover, .theme-toggle:hover { color: var(--text-secondary); }
+
+            .lang-option { font-weight: 500; opacity: 0.5; transition: opacity var(--transition-fast); }
+            .lang-option.active { opacity: 1; }
+            .lang-divider { opacity: 0.3; }
+            .theme-toggle svg { width: 14px; height: 14px; }
+
+            .icon-sun { display: none; }
+            .icon-moon { display: block; }
+
+            @media (prefers-color-scheme: dark) {
+                .icon-sun { display: block; }
+                .icon-moon { display: none; }
+            }
+
+            [data-theme='dark'] .icon-sun { display: block; }
+            [data-theme='dark'] .icon-moon { display: none; }
+            [data-theme='light'] .icon-sun { display: none; }
+            [data-theme='light'] .icon-moon { display: block; }
+
+            @keyframes fadeIn {
+                from { opacity: 0; transform: translateY(10px); }
+                to { opacity: 1; transform: translateY(0); }
+            }
+
+            .error-code { animation: fadeIn 0.5s ease-out; }
+            .error-title { animation: fadeIn 0.5s ease-out 0.1s backwards; }
+            .error-desc { animation: fadeIn 0.5s ease-out 0.2s backwards; }
+            .btn { animation: fadeIn 0.5s ease-out 0.3s backwards; }
+            .footer { animation: fadeIn 0.5s ease-out 0.4s backwards; }
+        </style>
+    </head>
+    <body>
+        <main>
+            <div class="error-code">404</div>
+            <h1 class="error-title" data-i18n="error-title">Page Not Found</h1>
+            <p class="error-desc" data-i18n="error-desc">The page you're looking for doesn't exist or has been moved.</p>
+            <a href="/" class="btn">
+                <svg class="btn-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z" />
+                    <polyline points="9 22 9 12 15 12 15 22" />
+                </svg>
+                <span data-i18n="back-home">Back to Home</span>
+            </a>
+        </main>
+
+        <footer class="footer">
+            <span>© 2026 TN3W</span>
+            <div class="footer-controls">
+                <button class="lang-toggle" id="langToggle" aria-label="Toggle language">
+                    <span class="lang-option" data-lang="en">EN</span>
+                    <span class="lang-divider">/</span>
+                    <span class="lang-option" data-lang="de">DE</span>
+                </button>
+                <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+                    <svg class="icon-sun" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="5" />
+                        <line x1="12" y1="1" x2="12" y2="3" />
+                        <line x1="12" y1="21" x2="12" y2="23" />
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64" />
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78" />
+                        <line x1="1" y1="12" x2="3" y2="12" />
+                        <line x1="21" y1="12" x2="23" y2="12" />
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36" />
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
+                    </svg>
+                    <svg class="icon-moon" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+                    </svg>
+                </button>
+            </div>
+        </footer>
+
+        <script>
+            const translations = {
+                en: {
+                    'error-title': 'Page Not Found',
+                    'error-desc': "The page you're looking for doesn't exist or has been moved.",
+                    'back-home': 'Back to Home',
+                },
+                de: {
+                    'error-title': 'Seite nicht gefunden',
+                    'error-desc': 'Die gesuchte Seite existiert nicht oder wurde verschoben.',
+                    'back-home': 'Zurück zur Startseite',
+                },
+            };
+
+            let currentLang = 'en';
+            let currentTheme = 'dark';
+
+            function initTheme() {
+                const savedTheme = localStorage.getItem('theme');
+                if (savedTheme) {
+                    currentTheme = savedTheme;
+                    document.documentElement.setAttribute('data-theme', currentTheme);
+                } else {
+                    currentTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+                }
+            }
+
+            function applyTheme() {
+                document.documentElement.setAttribute('data-theme', currentTheme);
+                localStorage.setItem('theme', currentTheme);
+            }
+
+            function toggleTheme() {
+                const effectiveTheme = document.documentElement.getAttribute('data-theme') ||
+                    (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+                currentTheme = effectiveTheme === 'dark' ? 'light' : 'dark';
+                applyTheme();
+            }
+
+            function initLanguage() {
+                const savedLang = localStorage.getItem('lang');
+                if (savedLang) {
+                    currentLang = savedLang;
+                } else {
+                    const browserLang = navigator.language || navigator.userLanguage;
+                    currentLang = browserLang.startsWith('de') ? 'de' : 'en';
+                }
+                applyLanguage();
+            }
+
+            function applyLanguage() {
+                document.querySelectorAll('[data-i18n]').forEach((el) => {
+                    const key = el.getAttribute('data-i18n');
+                    if (translations[currentLang][key]) el.textContent = translations[currentLang][key];
+                });
+                document.documentElement.lang = currentLang;
+                document.querySelectorAll('.lang-option').forEach((opt) => {
+                    opt.classList.toggle('active', opt.getAttribute('data-lang') === currentLang);
+                });
+                localStorage.setItem('lang', currentLang);
+            }
+
+            function toggleLanguage() {
+                currentLang = currentLang === 'en' ? 'de' : 'en';
+                applyLanguage();
+            }
+
+            document.addEventListener('DOMContentLoaded', () => {
+                initTheme();
+                initLanguage();
+                document.getElementById('themeToggle')?.addEventListener('click', toggleTheme);
+                document.getElementById('langToggle')?.addEventListener('click', toggleLanguage);
+            });
+        </script>
+    </body>
+</html>

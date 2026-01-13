@@ -1,0 +1,73 @@
+name: Deploy Website
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install minification tools
+        run: npm install -g html-minifier-terser csso-cli terser
+
+      - name: Build and minify
+        run: |
+          mkdir -p dist
+          cp -r www-src/* dist/
+
+          # Minify CSS
+          find dist -name "*.css" -type f | while read file; do
+            csso "$file" -o "$file"
+          done
+
+          # Minify JS
+          find dist -name "*.js" -type f | while read file; do
+            terser "$file" -o "$file" --compress --mangle
+          done
+
+          # Minify HTML
+          find dist -name "*.html" -type f | while read file; do
+            html-minifier-terser \
+              --collapse-whitespace \
+              --remove-comments \
+              --remove-redundant-attributes \
+              --remove-empty-attributes \
+              --minify-css true \
+              --minify-js true \
+              -o "$file" "$file"
+          done
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
