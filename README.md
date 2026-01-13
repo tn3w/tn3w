@@ -27,10 +27,6 @@
 
 Self-taught developer passionate about **digital privacy**, **security**, and **open source**. I build tools that protect online freedom — from VPN detection systems to Tor protocol implementations.
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### 🛠️ Tech Stack
 
 ```yaml
@@ -40,37 +36,18 @@ Languages:
   - JavaScript ████████░░░░░░
   - Java       ██████░░░░░░░░
 
-Frameworks:
-  - Flask, Actix-web, Tokio
+Frameworks:  Flask, Actix-web, Tokio
   
-Focus Areas:
-  - Network Security
-  - Privacy Tools
-  - Tor Protocol
+Focus Areas: Network Security, Privacy Tools, Tor Protocol
 ```
-
-</td>
-<td width="50%" valign="top">
 
 ### 📬 Contact
 
 ```python
-email = ["tn3w@protonmail.com", 
-         "mail@tn3w.dev"]
-
+email = ["tn3w@protonmail.com", "mail@tn3w.dev"]
 location = "Germany 🇩🇪"
-
-interests = [
-    "Privacy & Anonymity",
-    "Network Security", 
-    "Open Source",
-    "Cryptography"
-]
+interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptography"]
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
