@@ -7,7 +7,9 @@
   [![Website](https://img.shields.io/badge/🌐_Website-tn3w.dev-0d1117?style=for-the-badge&labelColor=161b22)](https://www.tn3w.dev/)
   [![PyPI](https://img.shields.io/badge/📦_PyPI-tn3w.dev-3775A9?style=for-the-badge&labelColor=161b22)](https://pypi.org/user/tn3w.dev)
   [![Crates.io](https://img.shields.io/badge/📦_Crates.io-tn3w-dea584?style=for-the-badge&labelColor=161b22)](https://crates.io/users/tn3w)
+  
   [![Mozilla Add-ons](https://img.shields.io/badge/🦊_Firefox_Addons-tn3w-FF7139?style=for-the-badge&labelColor=161b22)](https://addons.mozilla.org/en-US/firefox/user/18866191/)
+  [![GitHub](https://img.shields.io/badge/🐙_GitHub-tn3w-181717?style=for-the-badge&labelColor=161b22)](https://github.com/tn3w)
   
   <br>
 
