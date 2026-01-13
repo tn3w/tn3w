@@ -1,48 +1,393 @@
 <div align="center">
-    <img src="https://github.com/tn3w/tn3w/blob/master/animation.gif" alt="TN3W Animation">
+  
+  <img src="https://github.com/tn3w/tn3w/blob/master/animation.gif" alt="TN3W Animation" width="400">
+
+  <br><br>
+
+  [![Website](https://img.shields.io/badge/🌐_Website-tn3w.dev-0d1117?style=for-the-badge&labelColor=161b22)](https://www.tn3w.dev/)
+  [![PyPI](https://img.shields.io/badge/📦_PyPI-tn3w.dev-3775A9?style=for-the-badge&labelColor=161b22)](https://pypi.org/user/tn3w.dev)
+  [![Crates.io](https://img.shields.io/badge/📦_Crates.io-tn3w-dea584?style=for-the-badge&labelColor=161b22)](https://crates.io/users/tn3w)
+  [![Mozilla Add-ons](https://img.shields.io/badge/🦊_Firefox_Addons-tn3w-FF7139?style=for-the-badge&labelColor=161b22)](https://addons.mozilla.org/en-US/firefox/user/18866191/)
+  
+  <br>
+
+  ```
+  🇩🇪 Germany  •  Privacy Advocate  •  Open Source Enthusiast
+  ```
+
 </div>
 
-<p align="center">
-    <a href="https://www.tn3w.dev/" target="_blank" rel="noopener noreferrer">
-        <img alt="Website" src="https://img.shields.io/badge/Website-141e24.svg?&style=for-the-badge&logo=firefoxbrowser&logoColor=white">
-    </a>
-    <a href="http://tn3wdevey67vnv4pho2e6punjunsac7nifg4dzmw2stvknbprhvxt5id.onion/" target="_blank" rel="noopener noreferrer">
-        <img alt="Hidden Service" src="https://img.shields.io/badge/Hidden%20Service-141e24.svg?&style=for-the-badge&logo=torbrowser&logoColor=white">
-    </a>
-    <a href="https://pypi.org/user/tn3w.dev" target="_blank" rel="noopener noreferrer">
-        <img alt="PyPI" src="https://img.shields.io/badge/PyPi-141e24.svg?&style=for-the-badge&logo=python&logoColor=white">
-    </a>
-</p>
+---
 
-## 👋 Welcome to My World
+<br>
 
-Hey there! I’m **TN3W** — a self-taught, passion-driven programmer hailing from Germany 🇩🇪. My coding journey revolves around languages like **Python, HTML, CSS, Java, Rust, Qt,** and **JavaScript**, but my curiosity doesn’t stop there. I’m constantly diving into new technologies, always looking for ways to sharpen my skills and expand my knowledge.
+## `> whoami`
 
-When I’m not coding, you’ll probably find me deep in a video game or contributing to projects that promote digital privacy and freedom. I’m a firm believer in the open and free distribution of information, and this belief fuels my commitment to enhancing online privacy. Whether it’s through proxies, bridges, or encryption, I’m dedicated to safeguarding online freedom and advocating for privacy in the digital world.
+Self-taught developer passionate about **digital privacy**, **security**, and **open source**. I build tools that protect online freedom — from VPN detection systems to Tor protocol implementations.
 
-### 🛠️ My Toolkit & Passions
-- **📍 Location:** Germany
-- **👨‍💻 Languages & Tools:** Python, HTML, CSS, Java, Rust, Qt and JavaScript
-- **🌐 Website:** [tn3w.dev](https://www.tn3w.dev)
-- **📧 Reach Me:** [tn3w@protonmail.com](tn3w@protonmail.com) or [mail@tn3w.dev](mailto:mail@tn3w.dev)
+<table>
+<tr>
+<td width="50%">
 
-## 📂 My Projects
+### 🛠️ Tech Stack
 
-Here’s a sneak peek into some of the projects I’ve been working on:
+```yaml
+Languages:
+  - Rust       ████████████░░  85%
+  - Python     ██████████████  95%
+  - JavaScript ████████░░░░░░  60%
+  - Java       ██████░░░░░░░░  45%
 
-- **[flask_Captchaify](https://github.com/tn3w/flask_Captchaify):** A tool designed to shield Flask web servers from bots and spam using captchas to verify clients.
-- **[TrueClick](https://github.com/tn3w/TrueClick):** An open-source, GDPR-compliant solution for bot protection that combines human verification with Proof of Work.
-- **[py_ntru](https://github.com/tn3w/py_ntru):** A Python wrapper for the Rust NTRU library, offering a secure post-quantum encryption algorithm.
-- **[TorRunner](https://github.com/tn3w/TorRunner):** A tool that simplifies running Flask applications as Tor hidden services, enhancing privacy and anonymity.
-- **[SomeEmailClient](https://github.com/tn3w/SomeEmailClient):** A secure, open-source email client with end-to-end encryption to keep your communications private.
-- **[Spotofy](https://github.com/tn3w/Spotofy):** A free, ad-free music player client that lets you stream and download your favorite tunes.
+Frameworks:
+  - Flask, Actix-web, Tokio
+  
+Focus Areas:
+  - Network Security
+  - Privacy Tools
+  - Tor Protocol
+```
 
-### 🔧 Explore More
-I’ve got a few more projects up my sleeve! Check them out:
-- [flask_AuthGenius](https://github.com/tn3w/flask_AuthGenius)
-- [CipherChat](https://github.com/tn3w/CipherChat)
-- [MovieDB-JSON](https://github.com/tn3w/MovieDB-JSON)
-- [SillyPython](https://github.com/tn3w/SillyPython)
-- [PasswordManager](https://github.com/tn3w/passwordmanager)
-- [LOLcat translator](https://github.com/tn3w/LOLcat)
-- [AsciiArtGen](https://github.com/tn3w/AsciiGifGen)
+</td>
+<td width="50%">
+
+### 📬 Contact
+
+```python
+email = ["tn3w@protonmail.com", 
+         "mail@tn3w.dev"]
+
+location = "Germany 🇩🇪"
+
+interests = [
+    "Privacy & Anonymity",
+    "Network Security", 
+    "Open Source",
+    "Cryptography"
+]
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## 🚀 Featured Projects
+
+<br>
+
+<details open>
+<summary><h3>🧅 Tor Protocol</h3></summary>
+
+<table>
+<tr>
+<td>
+
+#### [stem-rs](https://github.com/tn3w/stem-rs) &nbsp; [![](https://img.shields.io/crates/v/stem-rs?style=flat-square&color=dea584)](https://crates.io/crates/stem-rs)
+
+> Complete Rust library for Tor control protocol — build privacy-focused applications with type-safe, async-first APIs
+
+🌐 **[stem.tn3w.dev](https://stem.tn3w.dev)**
+
+`rust` `tor` `async` `tokio` `privacy` `cryptography`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [vanguards-rs](https://github.com/tn3w/vanguards-rs) &nbsp; [![](https://img.shields.io/crates/v/vanguards-rs?style=flat-square&color=dea584)](https://crates.io/crates/vanguards-rs)
+
+> Enhanced security for Tor hidden services — protect against guard discovery attacks with persistent vanguard relay selection
+
+🌐 **[vanguards.tn3w.dev](https://vanguards.tn3w.dev)**
+
+`rust` `tor` `security` `hidden-services`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [OnionDock](https://github.com/tn3w/OnionDock) &nbsp; ⭐ 4
+
+> Turnkey solution for deploying web applications as Tor hidden services with enhanced security, reliability and performance
+
+`docker` `tor` `stem` `vanguards` `deployment`
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details open>
+<summary><h3>🛡️ IP Security & Detection</h3></summary>
+
+<table>
+<tr>
+<td>
+
+#### [IPSet](https://github.com/tn3w/IPSet) &nbsp; ⭐ 4
+
+> Comprehensive IP address categorization and lookup tool — collects addresses from VPN providers, Tor exit nodes, datacenter ASNs, and known proxy lists
+
+`python` `ip-lookup` `network-security` `vpn-detection`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 25
+
+> Auto-updated list of IP addresses from ProtonVPN — the widely used privacy-focused VPN provider
+
+`python` `vpn` `protonvpn` `ip-list`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [TunnelBear-IPs](https://github.com/tn3w/TunnelBear-IPs) &nbsp; ⭐ 4
+
+> Auto-updated list of IP addresses from TunnelBear VPN
+
+`python` `vpn` `tunnelbear` `ip-list`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [IPApi](https://github.com/tn3w/IPApi)
+
+> Fast, efficient, and free Python-powered API for retrieving IP address information
+
+`python` `ip-lookup` `ip-geolocation` `api`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [flask-realip](https://github.com/tn3w/flask-realip)
+
+> Flask extension that obtains the real IP address of clients behind proxies
+
+`python` `flask` `ip-address` `proxy`
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details open>
+<summary><h3>🤖 Bot Protection & Security</h3></summary>
+
+<table>
+<tr>
+<td>
+
+#### [flask-Humanify](https://github.com/tn3w/flask-Humanify) &nbsp; ⭐ 20
+
+> Strong bot protection system for Flask — rate limiting, web crawler detection, and automatic bot detection
+
+`python` `flask` `captcha` `rate-limiting` `ddos-protection`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [TrueClick](https://github.com/tn3w/TrueClick) &nbsp; ⭐ 1
+
+> Open source, GDPR-compliant protection against robots using human confirmation and Proof of Work
+
+`javascript` `captcha` `gdpr` `proof-of-work`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [flask_AuthGenius](https://github.com/tn3w/flask_AuthGenius)
+
+> Advanced account and authorization system for Flask-based web applications
+
+`python` `flask` `authentication` `login` `security`
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><h3>🎵 Music & Media</h3></summary>
+
+<table>
+<tr>
+<td>
+
+#### [lyriq](https://github.com/tn3w/lyriq) &nbsp; ⭐ 1
+
+> Lightweight Python library for fetching and displaying song lyrics with synchronized lyrics support and CLI tool
+
+`python` `lyrics` `lrc` `music`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [lyrics-prompter](https://github.com/tn3w/lyrics-prompter)
+
+> Lightweight desktop application for displaying synchronized lyrics — karaoke-style prompting for performances
+
+`rust` `lyrics` `karaoke` `desktop-app`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [youtube_music_unbound](https://github.com/tn3w/youtube_music_unbound)
+
+> Lightweight native YouTube Music client built with Flutter
+
+`flutter` `youtube-music` `desktop-app` `mobile-app`
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><h3>🦊 Browser Extensions</h3></summary>
+
+<table>
+<tr>
+<td>
+
+#### [YouTube-LevelUp](https://github.com/tn3w/YouTube-LevelUp)
+
+> Blocks Shorts, returns dislikes, skips sponsors, auto-continues watching, and anti-translates
+
+[![Firefox](https://img.shields.io/badge/Firefox-Install-FF7139?style=flat-square&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/youtube-levelup/)
+
+`javascript` `chrome-extension` `firefox-addon` `youtube`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [YouTube-Shorts-Blocker](https://github.com/tn3w/YouTube-Shorts-Blocker) &nbsp; ⭐ 1
+
+> Brutally minimal browser extension that hides YouTube Shorts everywhere
+
+[![Firefox](https://img.shields.io/badge/Firefox-Install-FF7139?style=flat-square&logo=firefox)](https://addons.mozilla.org/en-US/firefox/addon/youtube-shorts-blocker/)
+
+`javascript` `chrome-extension` `firefox-addon` `youtube-shorts`
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><h3>🔧 Other Projects</h3></summary>
+
+<table>
+<tr>
+<td>
+
+#### [cloudflare-ddns](https://github.com/tn3w/cloudflare-ddns) &nbsp; ⭐ 1
+
+> Automatically update Cloudflare A records when your IP changes
+
+`rust` `ddns` `cloudflare` `networking`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [Redux](https://github.com/tn3w/Redux) &nbsp; ⭐ 2
+
+> Secure link shortener PWA with optional end-to-end encryption
+
+`javascript` `pwa` `url-shortener` `encryption`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [ytbpy](https://github.com/tn3w/ytbpy) &nbsp; ⭐ 1
+
+> Fast, lightweight Python library for extracting YouTube information without API keys
+
+`python` `youtube` `scraper`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [repo](https://github.com/tn3w/repo)
+
+> Personal project portfolio with Markdown rendering and syntax highlighting
+
+`rust` `markdown` `syntax-highlighting`
+
+</td>
+</tr>
+<tr>
+<td>
+
+#### [plymouth-theme-arch-ascii](https://github.com/tn3w/plymouth-theme-arch-ascii) &nbsp; ⭐ 3
+
+> Plymouth theme featuring rainbow-colored Arch Linux ASCII art logo
+
+`shell` `arch-linux` `plymouth` `theme`
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=tn3w&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tn3w&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165">
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=tn3w&color=161b22&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br>
+
+---
+
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->January 13, 2026<!-- /LAST_UPDATED --></sub>
+
+</div>
