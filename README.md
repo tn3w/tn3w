@@ -2,7 +2,7 @@
   
   <img src="https://github.com/tn3w/tn3w/blob/master/animation.gif" alt="TN3W Animation">
 
-  <br>
+  <br><br>
 
   [![Website](https://img.shields.io/badge/🌐_Website-tn3w.dev-0d1117?style=for-the-badge&labelColor=161b22)](https://www.tn3w.dev/)
   [![PyPI](https://img.shields.io/badge/📦_PyPI-tn3w.dev-3775A9?style=for-the-badge&labelColor=161b22)](https://pypi.org/user/tn3w.dev)
