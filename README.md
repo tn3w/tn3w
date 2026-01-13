@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://github.com/tn3w/tn3w/blob/master/animation.gif" alt="TN3W Animation" width="400">
+  <img src="https://github.com/tn3w/tn3w/blob/master/animation.gif" alt="TN3W Animation">
 
   <br><br>
 
@@ -25,18 +25,18 @@
 
 Self-taught developer passionate about **digital privacy**, **security**, and **open source**. I build tools that protect online freedom — from VPN detection systems to Tor protocol implementations.
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛠️ Tech Stack
 
 ```yaml
 Languages:
-  - Rust       ████████████░░  85%
-  - Python     ██████████████  95%
-  - JavaScript ████████░░░░░░  60%
-  - Java       ██████░░░░░░░░  45%
+  - Rust       ████████████░░
+  - Python     ██████████████
+  - JavaScript ████████░░░░░░
+  - Java       ██████░░░░░░░░
 
 Frameworks:
   - Flask, Actix-web, Tokio
@@ -48,7 +48,7 @@ Focus Areas:
 ```
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📬 Contact
 
@@ -70,11 +70,7 @@ interests = [
 </tr>
 </table>
 
-<br>
-
 ---
-
-<br>
 
 ## 🚀 Featured Projects
 
