@@ -95,7 +95,7 @@ def main():
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(content)
     
-    print("\n✅ README.md updated successfully!")
+    print("\nREADME.md updated successfully!")
 
 
 if __name__ == "__main__":

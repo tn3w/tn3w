@@ -2,8 +2,6 @@
   
   <img src="https://github.com/tn3w/tn3w/blob/master/animation.gif" alt="TN3W Animation">
 
-  <br><br>
-
   [![Website](https://img.shields.io/badge/🌐_Website-tn3w.dev-0d1117?style=for-the-badge&labelColor=161b22)](https://www.tn3w.dev/)
   [![PyPI](https://img.shields.io/badge/📦_PyPI-tn3w.dev-3775A9?style=for-the-badge&labelColor=161b22)](https://pypi.org/user/tn3w.dev)
   [![Crates.io](https://img.shields.io/badge/📦_Crates.io-tn3w-dea584?style=for-the-badge&labelColor=161b22)](https://crates.io/users/tn3w)
@@ -11,8 +9,6 @@
   [![Mozilla Add-ons](https://img.shields.io/badge/🦊_Firefox_Addons-tn3w-FF7139?style=for-the-badge&labelColor=161b22)](https://addons.mozilla.org/en-US/firefox/user/18866191/)
   [![GitHub](https://img.shields.io/badge/🐙_GitHub-tn3w-181717?style=for-the-badge&labelColor=161b22)](https://github.com/tn3w)
   
-  <br>
-
   ```
   🇩🇪 Germany  •  Privacy Advocate  •  Open Source Enthusiast
   ```
@@ -20,8 +16,6 @@
 </div>
 
 ---
-
-<br>
 
 ## `> whoami`
 
@@ -53,8 +47,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ## 🚀 Featured Projects
 
-<br>
-
 <details open>
 <summary><h3>🧅 Tor Protocol</h3></summary>
 
@@ -62,7 +54,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [stem-rs](https://github.com/tn3w/stem-rs) &nbsp; ⭐ 1 &nbsp; [![](https://img.shields.io/crates/v/stem-rs?style=flat-square&color=dea584)](https://crates.io/crates/stem-rs)
+#### [stem-rs](https://github.com/tn3w/stem-rs) &nbsp; [![](https://img.shields.io/crates/v/stem-rs?style=flat-square&color=dea584)](https://crates.io/crates/stem-rs)
 
 > Complete Rust library for Tor control protocol — build privacy-focused applications with type-safe, async-first APIs
 
@@ -342,24 +334,11 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 </details>
 
-<br>
-
 ---
-
-<br>
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=tn3w&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tn3w&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="165">
-
-<br><br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=tn3w&color=161b22&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br>
 
 ---
 
