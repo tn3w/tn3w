@@ -465,6 +465,12 @@ main {
     min-width: 0;
 }
 
+@media (max-width: 768px) {
+    .terminal-input {
+        font-size: 16px;
+    }
+}
+
 .terminal-input::placeholder {
     color: var(--text-tertiary);
     opacity: 0.5;

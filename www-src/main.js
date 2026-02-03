@@ -528,7 +528,9 @@ function initTerminal() {
 
     document.getElementById('terminal')?.addEventListener('click', (e) => {
         if (!e.target.classList.contains('autocomplete-item')) {
-            terminalInput.focus();
+            const scrollY = window.scrollY;
+            terminalInput.focus({ preventScroll: true });
+            window.scrollTo(0, scrollY);
         }
     });
 }
@@ -603,7 +605,9 @@ function applySuggestion(index) {
         terminalInput.value = parts.join(' ');
     }
     hideSuggestions();
-    terminalInput.focus();
+    const scrollY = window.scrollY;
+    terminalInput.focus({ preventScroll: true });
+    window.scrollTo(0, scrollY);
 }
 
 function hideSuggestions() {
