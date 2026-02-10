@@ -53,6 +53,7 @@ jobs:
               --remove-empty-attributes \
               --minify-css true \
               --minify-js true \
+              --ignore-custom-fragments "<pre[\\s\\S]*?</pre>" \
               -o "$file" "$file"
           done
 
