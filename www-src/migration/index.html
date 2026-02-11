@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Migration to Germany</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Syne:wght@700;800&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="style.css" />
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+        <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+    </head>
+    <body>
+        <div class="container">
+            <header class="header">
+                <div class="title-block">
+                    <h1 class="main-title">MIGRATION</h1>
+                    <div class="subtitle">Germany 2023</div>
+                </div>
+                <div class="stat-grid">
+                    <div class="stat-item" style="--color: #e3000f">
+                        <div class="stat-value">1.93M</div>
+                        <div class="stat-label">Arrivals</div>
+                    </div>
+                    <div class="stat-item" style="--color: #64a12d">
+                        <div class="stat-value">663K</div>
+                        <div class="stat-label">Net</div>
+                    </div>
+                    <div class="stat-item" style="--color: #ffed00">
+                        <div class="stat-value">329K</div>
+                        <div class="stat-label">Asylum</div>
+                    </div>
+                </div>
+            </header>
+
+            <main class="content">
+                <section class="chart-section">
+                    <h2 class="section-title">Migration Reasons</h2>
+                    <div class="chart-wrapper">
+                        <canvas id="reasonsChart"></canvas>
+                    </div>
+                </section>
+
+                <section class="map-section">
+                    <h2 class="section-title">Countries of Origin</h2>
+                    <div id="map"></div>
+                    <div class="legend">
+                        <div class="legend-item">
+                            <span class="legend-color" style="background: #ff6b7a"></span>
+                            <span class="legend-text">&gt;200K</span>
+                        </div>
+                        <div class="legend-item">
+                            <span class="legend-color" style="background: #ffe066"></span>
+                            <span class="legend-text">100K-200K</span>
+                        </div>
+                        <div class="legend-item">
+                            <span class="legend-color" style="background: #90d96f"></span>
+                            <span class="legend-text">50K-100K</span>
+                        </div>
+                        <div class="legend-item">
+                            <span class="legend-color" style="background: #66c7f4"></span>
+                            <span class="legend-text">&lt;50K</span>
+                        </div>
+                    </div>
+                </section>
+            </main>
+
+            <footer class="footer">
+                <div class="footer-content">Sources: Destatis, BAMF, BMI</div>
+            </footer>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
