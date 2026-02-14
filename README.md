@@ -110,7 +110,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 25
+#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 26
 
 > Auto-updated list of IP addresses from ProtonVPN — the widely used privacy-focused VPN provider
 
@@ -244,7 +244,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [YouTube-LevelUp](https://github.com/tn3w/YouTube-LevelUp)
+#### [YouTube-LevelUp](https://github.com/tn3w/YouTube-LevelUp) &nbsp; ⭐ 1
 
 > Blocks Shorts, returns dislikes, skips sponsors, auto-continues watching, and anti-translates
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->February 13, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->February 14, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
