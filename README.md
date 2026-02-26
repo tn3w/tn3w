@@ -54,7 +54,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [stem-rs](https://github.com/tn3w/stem-rs) &nbsp; ⭐ 1 &nbsp; [![](https://img.shields.io/crates/v/stem-rs?style=flat-square&color=dea584)](https://crates.io/crates/stem-rs)
+#### [stem-rs](https://github.com/tn3w/stem-rs) &nbsp; ⭐ 2 &nbsp; [![](https://img.shields.io/crates/v/stem-rs?style=flat-square&color=dea584)](https://crates.io/crates/stem-rs)
 
 > Complete Rust library for Tor control protocol — build privacy-focused applications with type-safe, async-first APIs
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->February 25, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->February 26, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
