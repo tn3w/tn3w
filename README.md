@@ -143,7 +143,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [flask-realip](https://github.com/tn3w/flask-realip)
+#### [flask-realip](https://github.com/tn3w/flask-realip) &nbsp; ⭐ 1
 
 > Flask extension that obtains the real IP address of clients behind proxies
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->February 27, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->February 28, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
