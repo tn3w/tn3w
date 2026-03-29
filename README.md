@@ -121,7 +121,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [TunnelBear-IPs](https://github.com/tn3w/TunnelBear-IPs) &nbsp; ⭐ 4
+#### [TunnelBear-IPs](https://github.com/tn3w/TunnelBear-IPs) &nbsp; ⭐ 6
 
 > Auto-updated list of IP addresses from TunnelBear VPN
 
@@ -244,7 +244,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [YouTube-LevelUp](https://github.com/tn3w/YouTube-LevelUp) &nbsp; ⭐ 2
+#### [YouTube-LevelUp](https://github.com/tn3w/YouTube-LevelUp) &nbsp; ⭐ 3
 
 > Blocks Shorts, returns dislikes, skips sponsors, auto-continues watching, and anti-translates
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->March 28, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->March 29, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
