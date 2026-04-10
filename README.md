@@ -110,7 +110,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 30
+#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 31
 
 > Auto-updated list of IP addresses from ProtonVPN — the widely used privacy-focused VPN provider
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->April 09, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->April 10, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
