@@ -322,7 +322,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [plymouth-theme-arch-ascii](https://github.com/tn3w/plymouth-theme-arch-ascii) &nbsp; ⭐ 3
+#### [plymouth-theme-arch-ascii](https://github.com/tn3w/plymouth-theme-arch-ascii) &nbsp; ⭐ 4
 
 > Plymouth theme featuring rainbow-colored Arch Linux ASCII art logo
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->April 29, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->April 30, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
