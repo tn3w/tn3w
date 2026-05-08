@@ -214,7 +214,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [lyrics-prompter](https://github.com/tn3w/lyrics-prompter)
+#### [lyrics-prompter](https://github.com/tn3w/lyrics-prompter) &nbsp; ⭐ 1
 
 > Lightweight desktop application for displaying synchronized lyrics — karaoke-style prompting for performances
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->May 07, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->May 08, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
