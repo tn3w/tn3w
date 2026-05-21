@@ -54,7 +54,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [stem-rs](https://github.com/tn3w/stem-rs) &nbsp; ⭐ 4 &nbsp; [![](https://img.shields.io/crates/v/stem-rs?style=flat-square&color=dea584)](https://crates.io/crates/stem-rs)
+#### [stem-rs](https://github.com/tn3w/stem-rs) &nbsp; ⭐ 5 &nbsp; [![](https://img.shields.io/crates/v/stem-rs?style=flat-square&color=dea584)](https://crates.io/crates/stem-rs)
 
 > Complete Rust library for Tor control protocol — build privacy-focused applications with type-safe, async-first APIs
 
@@ -110,7 +110,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 37
+#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 38
 
 > Auto-updated list of IP addresses from ProtonVPN — the widely used privacy-focused VPN provider
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->May 20, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->May 21, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
