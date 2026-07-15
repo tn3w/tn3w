@@ -244,7 +244,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [YouTube-LevelUp](https://github.com/tn3w/YouTube-LevelUp) &nbsp; ⭐ 6
+#### [YouTube-LevelUp](https://github.com/tn3w/YouTube-LevelUp) &nbsp; ⭐ 7
 
 > Blocks Shorts, returns dislikes, skips sponsors, auto-continues watching, and anti-translates
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->July 14, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->July 15, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
