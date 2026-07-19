@@ -110,7 +110,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 42
+#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 43
 
 > Auto-updated list of IP addresses from ProtonVPN — the widely used privacy-focused VPN provider
 
@@ -257,7 +257,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [YouTube-Shorts-Blocker](https://github.com/tn3w/YouTube-Shorts-Blocker) &nbsp; ⭐ 4
+#### [YouTube-Shorts-Blocker](https://github.com/tn3w/YouTube-Shorts-Blocker) &nbsp; ⭐ 5
 
 > Brutally minimal browser extension that hides YouTube Shorts everywhere
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->July 18, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->July 19, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
