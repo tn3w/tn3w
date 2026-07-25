@@ -203,7 +203,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [lyriq](https://github.com/tn3w/lyriq) &nbsp; ⭐ 1
+#### [lyriq](https://github.com/tn3w/lyriq) &nbsp; ⭐ 2
 
 > Lightweight Python library for fetching and displaying song lyrics with synchronized lyrics support and CLI tool
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->July 24, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->July 25, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
