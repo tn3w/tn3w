@@ -121,7 +121,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [TunnelBear-IPs](https://github.com/tn3w/TunnelBear-IPs) &nbsp; ⭐ 9
+#### [TunnelBear-IPs](https://github.com/tn3w/TunnelBear-IPs) &nbsp; ⭐ 10
 
 > Auto-updated list of IP addresses from TunnelBear VPN
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->August 24, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->August 25, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
