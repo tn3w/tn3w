@@ -257,7 +257,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [YouTube-Shorts-Blocker](https://github.com/tn3w/YouTube-Shorts-Blocker) &nbsp; ⭐ 5
+#### [YouTube-Shorts-Blocker](https://github.com/tn3w/YouTube-Shorts-Blocker) &nbsp; ⭐ 6
 
 > Brutally minimal browser extension that hides YouTube Shorts everywhere
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->September 09, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->September 10, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
