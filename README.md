@@ -67,7 +67,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [vanguards-rs](https://github.com/tn3w/vanguards-rs) &nbsp; [![](https://img.shields.io/crates/v/vanguards-rs?style=flat-square&color=dea584)](https://crates.io/crates/vanguards-rs)
+#### [vanguards-rs](https://github.com/tn3w/vanguards-rs) &nbsp; ⭐ 1 &nbsp; [![](https://img.shields.io/crates/v/vanguards-rs?style=flat-square&color=dea584)](https://crates.io/crates/vanguards-rs)
 
 > Enhanced security for Tor hidden services — protect against guard discovery attacks with persistent vanguard relay selection
 
@@ -257,7 +257,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [YouTube-Shorts-Blocker](https://github.com/tn3w/YouTube-Shorts-Blocker) &nbsp; ⭐ 6
+#### [YouTube-Shorts-Blocker](https://github.com/tn3w/YouTube-Shorts-Blocker) &nbsp; ⭐ 7
 
 > Brutally minimal browser extension that hides YouTube Shorts everywhere
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->September 17, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->September 18, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
