@@ -80,7 +80,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [OnionDock](https://github.com/tn3w/OnionDock) &nbsp; ⭐ 4
+#### [OnionDock](https://github.com/tn3w/OnionDock) &nbsp; ⭐ 5
 
 > Turnkey solution for deploying web applications as Tor hidden services with enhanced security, reliability and performance
 
@@ -110,7 +110,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 55
+#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 60
 
 > Auto-updated list of IP addresses from ProtonVPN — the widely used privacy-focused VPN provider
 
@@ -322,7 +322,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [plymouth-theme-arch-ascii](https://github.com/tn3w/plymouth-theme-arch-ascii) &nbsp; ⭐ 6
+#### [plymouth-theme-arch-ascii](https://github.com/tn3w/plymouth-theme-arch-ascii) &nbsp; ⭐ 7
 
 > Plymouth theme featuring rainbow-colored Arch Linux ASCII art logo
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->October 25, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->November 01, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
