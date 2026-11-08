@@ -110,7 +110,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 60
+#### [ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs) &nbsp; ⭐ 62
 
 > Auto-updated list of IP addresses from ProtonVPN — the widely used privacy-focused VPN provider
 
@@ -322,7 +322,7 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 <tr>
 <td>
 
-#### [plymouth-theme-arch-ascii](https://github.com/tn3w/plymouth-theme-arch-ascii) &nbsp; ⭐ 7
+#### [plymouth-theme-arch-ascii](https://github.com/tn3w/plymouth-theme-arch-ascii) &nbsp; ⭐ 8
 
 > Plymouth theme featuring rainbow-colored Arch Linux ASCII art logo
 
@@ -342,6 +342,6 @@ interests = ["Privacy & Anonymity", "Network Security", "Open Source", "Cryptogr
 
 ---
 
-<sub>🔄 Last updated: <!-- LAST_UPDATED -->November 01, 2026<!-- /LAST_UPDATED --></sub>
+<sub>🔄 Last updated: <!-- LAST_UPDATED -->November 08, 2026<!-- /LAST_UPDATED --></sub>
 
 </div>
