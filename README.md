@@ -1,6 +1,11 @@
+<div align="center">
+
 ### Privacy tools and apps that don't phone home.
 
-Offline-first, open source, from Germany · [www.tn3w.dev](https://www.tn3w.dev/) · [tn3w@protonmail.com](mailto:tn3w@protonmail.com)
+Offline-first, open source, from Germany<br>
+[www.tn3w.dev](https://www.tn3w.dev/) · [tn3w@protonmail.com](mailto:tn3w@protonmail.com)
+
+<br>
 
 **[Shelf](https://shelf.tn3w.dev/)**: your books, offline. No account, no ads, no trackers.
 
@@ -10,6 +15,8 @@ Offline-first, open source, from Germany · [www.tn3w.dev](https://www.tn3w.dev/
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tn3w.dev/img/shelf-explore-dark.webp"><img src="https://www.tn3w.dev/img/shelf-explore-light.webp" width="180" alt="Shelf explore"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tn3w.dev/img/shelf-book-dark.webp"><img src="https://www.tn3w.dev/img/shelf-book-light.webp" width="180" alt="Shelf book"></picture>
 </p>
+
+</div>
 
 - **[iplore](https://github.com/tn3w/iplore)**: location, operator and abuse data for any IP, from one offline file
 - **[ProtonVPN-IPs](https://github.com/tn3w/ProtonVPN-IPs)**: every ProtonVPN exit and entry IP, daily
