@@ -24,3 +24,9 @@ Offline-first, open source, from Germany<br>
 - **[YouTube LevelUp](https://addons.mozilla.org/en-US/firefox/addon/youtube-levelup/)**: no Shorts, dislikes back, sponsors skipped
 - **[uaid](https://github.com/tn3w/uaid)**: identify 4,500+ crawlers by user agent
 - **[libcaptcha](https://github.com/libcaptcha)**: bot checks without puzzles
+
+<div align="center">
+
+[PyPI](https://pypi.org/user/tn3w.dev/) · [crates.io](https://crates.io/users/tn3w) · [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/user/18866191/) · [Docker Hub](https://hub.docker.com/u/tn3w) · [Buy me a coffee](https://buymeacoffee.com/tn3w)
+
+</div>
