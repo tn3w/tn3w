@@ -12,7 +12,6 @@ Offline-first, open source, from Germany<br>
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tn3w.dev/img/shelf-home-dark.webp"><img src="https://www.tn3w.dev/img/shelf-home-light.webp" width="180" alt="Shelf home"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tn3w.dev/img/shelf-library-dark.webp"><img src="https://www.tn3w.dev/img/shelf-library-light.webp" width="180" alt="Shelf library"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tn3w.dev/img/shelf-explore-dark.webp"><img src="https://www.tn3w.dev/img/shelf-explore-light.webp" width="180" alt="Shelf explore"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tn3w.dev/img/shelf-book-dark.webp"><img src="https://www.tn3w.dev/img/shelf-book-light.webp" width="180" alt="Shelf book"></picture>
 </p>
 
