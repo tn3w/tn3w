@@ -10,8 +10,8 @@ Offline-first, open source, from Germany<br>
 **[Shelf](https://shelf.tn3w.dev/)**: your books, offline. No account, no ads, no trackers.
 
 <p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tn3w.dev/img/shelf-home-dark.webp"><img src="https://www.tn3w.dev/img/shelf-home-light.webp" width="180" alt="Shelf home"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tn3w.dev/img/shelf-library-dark.webp"><img src="https://www.tn3w.dev/img/shelf-library-light.webp" width="180" alt="Shelf library"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tn3w.dev/img/shelf-home-dark.webp?v=2"><img src="https://www.tn3w.dev/img/shelf-home-light.webp?v=2" width="180" alt="Shelf home"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tn3w.dev/img/shelf-library-dark.webp?v=2"><img src="https://www.tn3w.dev/img/shelf-library-light.webp?v=2" width="180" alt="Shelf library"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.tn3w.dev/img/shelf-book-dark.webp"><img src="https://www.tn3w.dev/img/shelf-book-light.webp" width="180" alt="Shelf book"></picture>
 </p>
 
